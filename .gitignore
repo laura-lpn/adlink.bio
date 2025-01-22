@@ -9,6 +9,8 @@
 /vendor/
 /migrations/
 /.env/
+
+composer.lock
 ###< symfony/framework-bundle ###
 
 ###> phpunit/phpunit ###
@@ -26,4 +28,5 @@
 /public/build/
 npm-debug.log
 yarn-error.log
+package-lock.json
 ###< symfony/webpack-encore-bundle ###
